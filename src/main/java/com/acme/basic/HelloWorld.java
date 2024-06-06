@@ -1,9 +1,10 @@
 package com.acme.basic;
 
 public class HelloWorld {
-//prueba
+
   void sayHello() {
     System.out.println("Hello World!");
+        System.out.println("Hello World2!");
   }
 
   void notCovered() {
